@@ -572,6 +572,7 @@ footer {
 }
 
 .footer-bottom {
+    background-color: #0a1832;
     padding-top: 20px;
     border-top: 1px solid rgba(74, 127, 167, 0.1);
     text-align: center;
@@ -586,6 +587,7 @@ footer {
 .footer-bottom p span {
     color: #4a7fa7;
 }
+
 
 
 
